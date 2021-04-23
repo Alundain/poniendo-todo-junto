@@ -1,0 +1,22 @@
+*{
+    width: 600px;
+    margin: 0px auto;
+    /*padding: 400px, 100px, 100px, 100px;*/
+    margin-top: 20px;
+    justify-content: center;  
+    background-color: rgb(210, 243, 210);
+}
+
+div button {
+    background-color:grey;
+    width: 200px;
+    margin: 5px;
+    padding: 6px;
+    border-radius: 5px;
+    color: white;
+    justify-content: right;
+}
+
+div h1{
+    color: blue;
+}
